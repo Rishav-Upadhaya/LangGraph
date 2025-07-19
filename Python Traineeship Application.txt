@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Python Traineeship opportunity. As a 6th-semester CSIT student, my name is Rishav Upadhaya, and I possess a strong passion for Python development.
+
+I have cultivated experience in Python, Django, DRF, MVC, AI Wrapper, WebSockets, Docker, Version Control, and Agile methodologies. My project portfolio includes DERA, Diabetes Checker, and Sentiment Analysis, demonstrating practical application of these skills.
+
+I am eager to discuss how my skills and experience align with your team's needs and contribute to the success of your organization.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Rishav Upadhaya
